@@ -3,7 +3,7 @@
 #include <conio.h>
 #include <string>
 
-const int max_value = 100001;
+const int max_value = 100;
 
 void heapify(int i, int& a, int& b, float mass[]) {
 	int maxP = i;
